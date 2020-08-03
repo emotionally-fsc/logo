@@ -1,0 +1,5 @@
+= Emotionally: Project Logo
+FSC
+
+This repository holds the logo of the project in all of
+its forms and sizes. The files shared are SVGs (if possible).
